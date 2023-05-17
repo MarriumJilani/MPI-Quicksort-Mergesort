@@ -1,0 +1,3 @@
+I have attached screenshots of comparisons for quicksort and merdgesort of same sized arrays serially. 
+I have also attached screenshots for gflops calculations of parallel quick and merge sort.
+the basic thing that can be noticed is that as arrays grow larger, quicksort gives less gflops.
